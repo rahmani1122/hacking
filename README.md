@@ -14,8 +14,8 @@ c</s></s>command
 3.  apt install git 
 4.  pip2 install mechanize 
 5.  pip2 install requests 
-6.  git clone https://github.com/Mohammadjan1122/Email_hack 
-7.  cd Email_hack 
+6.  git clone https://github.com/rahmani1122/hacking/blob/master/README.md
+7.  cd Email_hack
 8.  python2 sharukh_rahmani.py
 
 @rahmani_king  سوال
