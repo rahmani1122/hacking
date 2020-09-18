@@ -14,7 +14,7 @@ c</s></s>command
 3.  apt install git 
 4.  pip2 install mechanize 
 5.  pip2 install requests 
-6.  git clone https://github.com/rahmani1122/hacking/blob/master/README.md
+6.  git clone https://github.com/rahmani1122/hacking/blob/master/Rahmani_emil_hacker
 7.  cd hacking
 8.  python2 sharukh_rahmani.py
 
